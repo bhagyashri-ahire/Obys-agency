@@ -164,8 +164,3 @@ document.querySelector("#hero3").addEventListener("mouseleave",function(){
   })
 })
 
-var fade=document.querySelector("#arrow h1")
-
-t1.from("fade",{
-  
-})
